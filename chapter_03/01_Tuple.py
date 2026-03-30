@@ -30,3 +30,9 @@ tuple_b = (7, 8)
 print(tuple_a)
 print(tuple_b)
 print(tuple_a + tuple_b)
+
+print('')
+print('tuple multiplication')
+
+tuple_с = (4, 5, 6) * 4
+print(tuple_с)
