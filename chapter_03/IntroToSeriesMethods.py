@@ -10,4 +10,5 @@ print(price_sum)
 print(price_product)
 print(price_avg)
 print(price_std)
+print(price, price_sum, price_product, price_avg, price_std)
 
