@@ -13,3 +13,4 @@ attack_powers = pd.Series({
 })
 
 print(pokemon.map(attack_powers))
+print(pokemon.map(attack_powers.head()))
